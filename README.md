@@ -18,7 +18,7 @@
      
 ## 2017 and 2018 data from the refactoring
 ![Refactoring 2017](/resources/VBA_Challenge_2017.PNG)
-![Refactoring 2018](/resources/VBA_Challenge_2018.PNG)
+![Refactoring 2018](/resources/VBA_Challenge_2018.png)
 
 ### What are the advantages or disadvantages of refactoring code?    
 - It takes time to refactor.
